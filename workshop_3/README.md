@@ -1,0 +1,1 @@
+Created an abstract class named GeometricObject which gives specifications of what operations can be performed on a basic geometric object. Then, inherited a Triangle class from that class which defines the operations that were declared in its parent and along with that also adds some extra functionality in its definition.
